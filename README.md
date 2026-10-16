@@ -4,9 +4,6 @@ Upload your PDFs or text files, ask questions in plain English, and get answers 
 
 Built with **Python, FastAPI, ChromaDB, sentence-transformers, and the Claude API**, with a lightweight vanilla JavaScript frontend.
 
-> 📸 **Screenshot:** add a screenshot of the app here (e.g. `docs/screenshot.png`), then replace this line with:
-> `![App screenshot](docs/screenshot.png)`
-
 ---
 
 ## ✨ Features
